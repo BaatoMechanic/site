@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  react-app:
+    build:
+      context: ./site  # This should point to the 'site' folder containing your project files
+      dockerfile: Dockerfile
+    container_name: vite-react
+    restart: always
+    ports:
+      - 5173:3000
+    volumes:
+      - ./site:/app  # Mount the 'site' folder to allow hot-reloading and code changes
+      - /app/node_modules  # Prevent overwriting node_modules
+    environment:
+      - CHOKIDAR_USEPOLLING=true  # Enable polling for file watchers in Docker
+
