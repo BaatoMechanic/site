@@ -1,11 +1,6 @@
 {
   "nav": [
     {
-      "label": "Features",
-      "path": "/#features",
-      "icon": "features"
-    },
-    {
       "label": "About",
       "path": "/#about",
       "icon": "about"
@@ -64,7 +59,6 @@
       "description": "Wheel alignment and balancing to improve handling and stability."
     }
   ],
-
   "testimonials": [
     {
       "id": 1,
@@ -111,32 +105,32 @@
     {
       "id": 1,
       "question": "What services do you offer?",
-      "answer": "We offer a wide range of mechanic services, including engine diagnostics, brake repair, oil changes, and general vehicle maintenance."
+      "answer": "We provide emergency roadside repairs and assistance (any type of repair, towing, battery jump-starts, flat tire repair) where a mechanic comes to your location and does the repair. We also provide on-demand vehicle repair services. Our services include general vehicle repairs (engine diagnostics, brake repair, oil changes), and garage engineering services (lathe work, boring, welding, and more)."
     },
     {
       "id": 2,
-      "question": "Do you provide emergency roadside assistance?",
-      "answer": "Yes, we provide 24/7 emergency roadside assistance, including towing, battery jump-starts, and flat tire repair."
+      "question": "How does Baato Mechanic work?",
+      "answer": "You can request a mechanic through our mobile app, and a skilled professional will be dispatched to your location. You will receive an upfront cost estimate before starting the request."
     },
     {
       "id": 3,
-      "question": "How can I book an appointment?",
-      "answer": "You can book an appointment by calling our service center, visiting our website, or using our mobile app."
+      "question": "Do you provide emergency roadside assistance?",
+      "answer": "Yes! We offer 24/7 roadside assistance, including towing, battery jump-starts, flat tire replacement, fuel delivery, and more."
     },
     {
       "id": 4,
-      "question": "What are your operating hours?",
-      "answer": "We are open Monday to Saturday from 8:00 AM to 6:00 PM. We are closed on Sundays."
+      "question": "How can I book a mechanic?",
+      "answer": "You can book a mechanic through our Baato Mechanic app, via our website, google playstore or by calling our customer support.(+977 9868957429)"
     },
     {
       "id": 5,
-      "question": "Do you offer warranty on repairs?",
-      "answer": "Yes, we offer a warranty on most repairs, covering parts and labor for a specified period. Please contact us for more details."
+      "question": "Will I know the cost before the repair?",
+      "answer": "Yes, we provide a transparent price estimate  before starting the repair. If the mechanic needs to inspect the vehicle first, they will provide a final cost before proceeding with the repair."
     },
     {
       "id": 6,
-      "question": "Can I get a cost estimate before the repair?",
-      "answer": "Yes, we provide free estimates before starting any repair work to ensure transparency and no hidden charges."
+      "question": "What is Baato Kharcha (traveling charge)?",
+      "answer": "If a mechanic is dispatched to your location and you cancel or decline the service upon arrival, you must pay a Baato Kharcha (travelling charge). This amount is determined before the mechanic departs, ensuring fairness for both parties."
     },
     {
       "id": 7,
@@ -145,21 +139,10 @@
     },
     {
       "id": 8,
-      "question": "How long does a typical repair take?",
-      "answer": "The time required depends on the type of repair. Minor repairs can be completed within a few hours, while major repairs may take a couple of days."
-    },
-    {
-      "id": 9,
-      "question": "Do you offer discounts or membership programs?",
-      "answer": "Yes, we offer seasonal discounts and a membership program that provides exclusive benefits, such as priority service and discounts on repairs."
-    },
-    {
-      "id": 10,
-      "question": "What payment methods do you accept?",
-      "answer": "We accept cash, credit/debit cards, and online payments. Financing options are also available for major repairs."
+      "question": "How long does a repair take?",
+      "answer": "The repair time varies. Minor repairs can be completed within a few hours, while major repairs may take a day or more. For engineering services, some work is done on-site, while others may require pick-up and drop."
     }
   ],
-
   "terms_and_conditions": [
     {
       "title": "Introduction",
@@ -254,72 +237,35 @@
   "privacy_policy": [
     {
       "title": "Introduction",
-      "content": [
-        "This Privacy Policy explains how Baato Mechanic collects, uses, and protects your personal information when you use our platform."
-      ]
+      "content": "This Privacy Policy explains how Baato Mechanic collects, uses, and protects your personal information when you use our platform."
     },
     {
       "title": "Information We Collect",
-      "content": [
-        {
-          "title": "Consumers",
-          "content": ["Name", "Phone number", "Email", "Vehicle number"]
-        },
-        {
-          "title": "Mechanics and Engineers",
-          "content": [
-            "Name",
-            "Phone number",
-            "Email",
-            "ID verification details",
-            "Background check information"
-          ]
-        }
-      ]
+      "content": "We collect personal information based on whether you are a consumer or a mechanic/engineer. For consumers, we collect the following: Name, Phone number, Email, Vehicle number. For mechanics and engineers, we collect: Name, Phone number, Email, ID verification details, Background check information."
     },
     {
       "title": "How We Use Your Data",
-      "content": [
-        "Facilitate connections between users and mechanics/engineers.",
-        "Improve our platform and services.",
-        "Process transactions and customer support requests.",
-        "Ensure security and fraud prevention."
-      ]
+      "content": "We use your data to facilitate connections between users and mechanics/engineers, improve our platform and services, process transactions and customer support requests, and ensure security and fraud prevention."
     },
     {
       "title": "Data Sharing",
-      "content": [
-        "We do not sell, rent, or trade your data.",
-        "With mechanics and engineers to complete service requests.",
-        "With law enforcement if required by law.",
-        "With third-party service providers for analytics and app functionality."
-      ]
+      "content": "We do not sell, rent, or trade your data. We share it with mechanics and engineers to complete service requests, with law enforcement if required by law, and with third-party service providers for analytics and app functionality."
     },
     {
       "title": "Data Security",
-      "content": [
-        "We implement security measures to protect your personal data. However, no online platform is completely secure, so users should take precautions when sharing sensitive information."
-      ]
+      "content": "We implement security measures to protect your personal data. However, no online platform is completely secure, so users should take precautions when sharing sensitive information."
     },
     {
       "title": "Retention of Data",
-      "content": [
-        "We retain personal data as long as necessary to provide our services and comply with legal obligations."
-      ]
+      "content": "We retain personal data as long as necessary to provide our services and comply with legal obligations."
     },
     {
       "title": "Your Rights",
-      "content": [
-        "Request access to your personal data.",
-        "Request correction or deletion of your data.",
-        "Opt out of marketing communications."
-      ]
+      "content": "You have the right to request access to your personal data, request correction or deletion of your data, and opt out of marketing communications."
     },
     {
       "title": "Changes to Policy",
-      "content": [
-        "Baato Mechanic may update this Privacy Policy from time to time. Users will be notified of significant changes."
-      ]
+      "content": "Baato Mechanic may update this Privacy Policy from time to time. Users will be notified of significant changes."
     }
   ]
 }

@@ -31,8 +31,7 @@ const Footer = () => {
       </div>
       <div className="container bg-primary">
         <p className="py-4 text-center text-sm  font-normal text-white">
-          Copyright &copy; 2023 BATOMECHANICS. | All Rights Reserved. | Powered
-          by BATOMECHANICS.
+          Copyright &copy; 2025 BAATO MECHANIC. | All Rights Reserved. |
         </p>
       </div>
     </footer>
